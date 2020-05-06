@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780275789343",
+    "firebase_url": "https://best-deals-forever.firebaseio.com",
+    "project_id": "best-deals-forever",
+    "storage_bucket": "best-deals-forever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780275789343:android:2e70692faf91929504ef2a",
+        "android_client_info": {
+          "package_name": "com.bestdeals.best_deals_forever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780275789343-dkcqh6ira9lsrmjqccita6vjvi8a5b0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDni3eRIRyHTdvLAGOaeYsZaMDcOiajB08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780275789343-dkcqh6ira9lsrmjqccita6vjvi8a5b0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
